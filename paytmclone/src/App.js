@@ -20,7 +20,7 @@ function App() {
        <Header />
       <Offerbadge />
       <Banner />
-      <Card/> 
+    
       
 
     </div>
