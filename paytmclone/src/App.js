@@ -21,7 +21,7 @@ function App() {
       <Offerbadge />
       <Banner />
       <Card/> 
-      <Netflix /> 
+      
 
     </div>
   );
